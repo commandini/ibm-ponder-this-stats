@@ -1,0 +1,54 @@
+#sidebar {
+  background-color: #e39e84;
+  min-height: 100vh;
+  padding: 20px;
+  width: 10%;
+  min-width: 80px;
+}
+
+.sidebar-option {
+  background-color: #e66c3e;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.2s;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sidebar-option:hover {
+  background-color: #e0f7fa;
+}
+
+#main-content {
+  padding: 20px;
+}
+
+#table-container {
+  height: 500px;
+}
+
+.tabulator .tabulator-header .tabulator-col {
+  height: 48px;
+}
+
+.tabulator
+  .tabulator-header
+  .tabulator-col
+  .tabulator-col-content
+  .tabulator-col-title {
+  white-space: normal;
+  text-align: center;
+}
+
+.tabulator .tabulator-header .tabulator-col .tabulator-col-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
