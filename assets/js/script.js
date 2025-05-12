@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <div class='col-md-8'>
               <p class='lead'>The statistics are compiled by
                  <a href="https://github.com/commandini" class="text-success fw-bold text-decoration-none" target="_blank">commandini</a> </p>
-              <p>The statistics are computed up to and including <em>IBM Ponder This December 2024 Challenge</em>.</p>
+              <p>The statistics are computed up to and including <em>IBM Ponder This April 2025 Challenge</em>.</p>
             </div>
           </div>
         </div>`;

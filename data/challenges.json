@@ -1,147 +1,15 @@
 [
   {
-    "identifier": "2014_09",
-    "correctSubmissionCount": 141,
-    "bonusCount": 12,
-    "bonusRate": 0.09
-  },
-  {
-    "identifier": "2014_10",
-    "correctSubmissionCount": 179,
+    "identifier": "1998_01",
+    "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2014_07",
-    "correctSubmissionCount": 60,
+    "identifier": "1998_02",
+    "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_06",
-    "correctSubmissionCount": 185,
-    "bonusCount": 119,
-    "bonusRate": 0.64
-  },
-  {
-    "identifier": "2014_04",
-    "correctSubmissionCount": 111,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_03",
-    "correctSubmissionCount": 56,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_08",
-    "correctSubmissionCount": 127,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_12",
-    "correctSubmissionCount": 107,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_02",
-    "correctSubmissionCount": 28,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_11",
-    "correctSubmissionCount": 74,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_05",
-    "correctSubmissionCount": 37,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2014_01",
-    "correctSubmissionCount": 40,
-    "bonusCount": 10,
-    "bonusRate": 0.25
-  },
-  {
-    "identifier": "2021_02",
-    "correctSubmissionCount": 78,
-    "bonusCount": 62,
-    "bonusRate": 0.79
-  },
-  {
-    "identifier": "2021_09",
-    "correctSubmissionCount": 35,
-    "bonusCount": 21,
-    "bonusRate": 0.6
-  },
-  {
-    "identifier": "2021_08",
-    "correctSubmissionCount": 48,
-    "bonusCount": 28,
-    "bonusRate": 0.58
-  },
-  {
-    "identifier": "2021_11",
-    "correctSubmissionCount": 49,
-    "bonusCount": 38,
-    "bonusRate": 0.78
-  },
-  {
-    "identifier": "2021_12",
-    "correctSubmissionCount": 61,
-    "bonusCount": 52,
-    "bonusRate": 0.85
-  },
-  {
-    "identifier": "2021_06",
-    "correctSubmissionCount": 103,
-    "bonusCount": 78,
-    "bonusRate": 0.76
-  },
-  {
-    "identifier": "2021_04",
-    "correctSubmissionCount": 91,
-    "bonusCount": 66,
-    "bonusRate": 0.73
-  },
-  {
-    "identifier": "2021_10",
-    "correctSubmissionCount": 73,
-    "bonusCount": 44,
-    "bonusRate": 0.6
-  },
-  {
-    "identifier": "2021_07",
-    "correctSubmissionCount": 70,
-    "bonusCount": 63,
-    "bonusRate": 0.9
-  },
-  {
-    "identifier": "2021_03",
-    "correctSubmissionCount": 98,
-    "bonusCount": 63,
-    "bonusRate": 0.64
-  },
-  {
-    "identifier": "2021_01",
-    "correctSubmissionCount": 119,
-    "bonusCount": 78,
-    "bonusRate": 0.66
-  },
-  {
-    "identifier": "2021_05",
-    "correctSubmissionCount": 45,
-    "bonusCount": 20,
-    "bonusRate": 0.44
   },
   {
     "identifier": "1998_03",
@@ -150,7 +18,7 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "1998_07",
+    "identifier": "1998_04",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
@@ -168,7 +36,7 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "1998_12",
+    "identifier": "1998_07",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
@@ -186,410 +54,20 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "1998_11",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
     "identifier": "1998_10",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "1998_04",
+    "identifier": "1998_11",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "1998_02",
+    "identifier": "1998_12",
     "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "1998_01",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_01",
-    "correctSubmissionCount": 29,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_02",
-    "correctSubmissionCount": 38,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_07",
-    "correctSubmissionCount": 18,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_10",
-    "correctSubmissionCount": 22,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_08",
-    "correctSubmissionCount": 41,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_04",
-    "correctSubmissionCount": 19,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_09",
-    "correctSubmissionCount": 50,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_12",
-    "correctSubmissionCount": 52,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_05",
-    "correctSubmissionCount": 82,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_11",
-    "correctSubmissionCount": 163,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_03",
-    "correctSubmissionCount": 63,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2006_06",
-    "correctSubmissionCount": 93,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_05",
-    "correctSubmissionCount": 38,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_12",
-    "correctSubmissionCount": 35,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_10",
-    "correctSubmissionCount": 32,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_06",
-    "correctSubmissionCount": 41,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_03",
-    "correctSubmissionCount": 45,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_04",
-    "correctSubmissionCount": 79,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_09",
-    "correctSubmissionCount": 2,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_07",
-    "correctSubmissionCount": 72,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_08",
-    "correctSubmissionCount": 20,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_02",
-    "correctSubmissionCount": 64,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_01",
-    "correctSubmissionCount": 40,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2001_11",
-    "correctSubmissionCount": 14,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_05",
-    "correctSubmissionCount": 76,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_01",
-    "correctSubmissionCount": 55,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_11",
-    "correctSubmissionCount": 53,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_08",
-    "correctSubmissionCount": 89,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_04",
-    "correctSubmissionCount": 118,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_03",
-    "correctSubmissionCount": 67,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_10",
-    "correctSubmissionCount": 58,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_12",
-    "correctSubmissionCount": 67,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_09",
-    "correctSubmissionCount": 55,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_02",
-    "correctSubmissionCount": 128,
-    "bonusCount": 62,
-    "bonusRate": 0.48
-  },
-  {
-    "identifier": "2011_07",
-    "correctSubmissionCount": 26,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2011_06",
-    "correctSubmissionCount": 132,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_03",
-    "correctSubmissionCount": 85,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_09",
-    "correctSubmissionCount": 64,
-    "bonusCount": 55,
-    "bonusRate": 0.86
-  },
-  {
-    "identifier": "2018_11",
-    "correctSubmissionCount": 33,
-    "bonusCount": 4,
-    "bonusRate": 0.12
-  },
-  {
-    "identifier": "2018_04",
-    "correctSubmissionCount": 163,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_01",
-    "correctSubmissionCount": 29,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_02",
-    "correctSubmissionCount": 87,
-    "bonusCount": 40,
-    "bonusRate": 0.46
-  },
-  {
-    "identifier": "2018_10",
-    "correctSubmissionCount": 27,
-    "bonusCount": 1,
-    "bonusRate": 0.04
-  },
-  {
-    "identifier": "2018_07",
-    "correctSubmissionCount": 191,
-    "bonusCount": 44,
-    "bonusRate": 0.23
-  },
-  {
-    "identifier": "2018_05",
-    "correctSubmissionCount": 64,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_12",
-    "correctSubmissionCount": 51,
-    "bonusCount": 32,
-    "bonusRate": 0.63
-  },
-  {
-    "identifier": "2018_08",
-    "correctSubmissionCount": 116,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2018_06",
-    "correctSubmissionCount": 98,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_06",
-    "correctSubmissionCount": 54,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_08",
-    "correctSubmissionCount": 72,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_12",
-    "correctSubmissionCount": 79,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_10",
-    "correctSubmissionCount": 65,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_01",
-    "correctSubmissionCount": 55,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_04",
-    "correctSubmissionCount": 40,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_02",
-    "correctSubmissionCount": 68,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_09",
-    "correctSubmissionCount": 52,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_11",
-    "correctSubmissionCount": 37,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_05",
-    "correctSubmissionCount": 143,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_07",
-    "correctSubmissionCount": 91,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2007_03",
-    "correctSubmissionCount": 44,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "1999_04",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "1999_06",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "1999_11",
-    "correctSubmissionCount": 16,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -606,13 +84,13 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "1999_08",
-    "correctSubmissionCount": 21,
+    "identifier": "1999_03",
+    "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "1999_07",
+    "identifier": "1999_04",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
@@ -624,19 +102,19 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "1999_03",
+    "identifier": "1999_06",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "1999_10",
-    "correctSubmissionCount": 21,
+    "identifier": "1999_07",
+    "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "1999_12",
+    "identifier": "1999_08",
     "correctSubmissionCount": 21,
     "bonusCount": 0,
     "bonusRate": 0.0
@@ -648,614 +126,20 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2017_02",
-    "correctSubmissionCount": 78,
-    "bonusCount": 9,
-    "bonusRate": 0.12
-  },
-  {
-    "identifier": "2017_12",
-    "correctSubmissionCount": 88,
+    "identifier": "1999_10",
+    "correctSubmissionCount": 21,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2017_09",
-    "correctSubmissionCount": 32,
+    "identifier": "1999_11",
+    "correctSubmissionCount": 16,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2017_04",
-    "correctSubmissionCount": 75,
-    "bonusCount": 39,
-    "bonusRate": 0.52
-  },
-  {
-    "identifier": "2017_10",
-    "correctSubmissionCount": 22,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2017_07",
-    "correctSubmissionCount": 63,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2017_11",
-    "correctSubmissionCount": 23,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2017_03",
-    "correctSubmissionCount": 54,
-    "bonusCount": 19,
-    "bonusRate": 0.35
-  },
-  {
-    "identifier": "2017_05",
-    "correctSubmissionCount": 161,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2017_06",
-    "correctSubmissionCount": 53,
-    "bonusCount": 87,
-    "bonusRate": 1.64
-  },
-  {
-    "identifier": "2017_08",
-    "correctSubmissionCount": 61,
-    "bonusCount": 21,
-    "bonusRate": 0.34
-  },
-  {
-    "identifier": "2017_01",
-    "correctSubmissionCount": 67,
-    "bonusCount": 47,
-    "bonusRate": 0.7
-  },
-  {
-    "identifier": "2003_12",
-    "correctSubmissionCount": 12,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_03",
-    "correctSubmissionCount": 24,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_08",
-    "correctSubmissionCount": 83,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_05",
-    "correctSubmissionCount": 41,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_10",
-    "correctSubmissionCount": 58,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_11",
-    "correctSubmissionCount": 13,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_09",
-    "correctSubmissionCount": 24,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_07",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_01",
-    "correctSubmissionCount": 40,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_02",
-    "correctSubmissionCount": 8,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_06",
-    "correctSubmissionCount": 31,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2003_04",
-    "correctSubmissionCount": 6,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2023_09",
-    "correctSubmissionCount": 133,
-    "bonusCount": 43,
-    "bonusRate": 0.32
-  },
-  {
-    "identifier": "2023_05",
-    "correctSubmissionCount": 51,
-    "bonusCount": 27,
-    "bonusRate": 0.53
-  },
-  {
-    "identifier": "2023_10",
-    "correctSubmissionCount": 93,
-    "bonusCount": 43,
-    "bonusRate": 0.46
-  },
-  {
-    "identifier": "2023_11",
-    "correctSubmissionCount": 111,
-    "bonusCount": 87,
-    "bonusRate": 0.78
-  },
-  {
-    "identifier": "2023_07",
-    "correctSubmissionCount": 94,
-    "bonusCount": 65,
-    "bonusRate": 0.69
-  },
-  {
-    "identifier": "2023_08",
-    "correctSubmissionCount": 161,
-    "bonusCount": 183,
-    "bonusRate": 1.14
-  },
-  {
-    "identifier": "2023_04",
-    "correctSubmissionCount": 79,
-    "bonusCount": 58,
-    "bonusRate": 0.73
-  },
-  {
-    "identifier": "2023_03",
-    "correctSubmissionCount": 82,
-    "bonusCount": 29,
-    "bonusRate": 0.35
-  },
-  {
-    "identifier": "2023_01",
-    "correctSubmissionCount": 60,
-    "bonusCount": 45,
-    "bonusRate": 0.75
-  },
-  {
-    "identifier": "2023_06",
-    "correctSubmissionCount": 56,
-    "bonusCount": 44,
-    "bonusRate": 0.79
-  },
-  {
-    "identifier": "2023_12",
-    "correctSubmissionCount": 97,
-    "bonusCount": 54,
-    "bonusRate": 0.56
-  },
-  {
-    "identifier": "2023_02",
-    "correctSubmissionCount": 60,
-    "bonusCount": 42,
-    "bonusRate": 0.7
-  },
-  {
-    "identifier": "2024_07",
-    "correctSubmissionCount": 62,
-    "bonusCount": 29,
-    "bonusRate": 0.47
-  },
-  {
-    "identifier": "2024_02",
-    "correctSubmissionCount": 101,
-    "bonusCount": 66,
-    "bonusRate": 0.65
-  },
-  {
-    "identifier": "2024_06",
-    "correctSubmissionCount": 123,
-    "bonusCount": 85,
-    "bonusRate": 0.69
-  },
-  {
-    "identifier": "2024_11",
-    "correctSubmissionCount": 47,
-    "bonusCount": 38,
-    "bonusRate": 0.81
-  },
-  {
-    "identifier": "2024_03",
-    "correctSubmissionCount": 186,
-    "bonusCount": 67,
-    "bonusRate": 0.36
-  },
-  {
-    "identifier": "2024_12",
-    "correctSubmissionCount": 103,
-    "bonusCount": 71,
-    "bonusRate": 0.69
-  },
-  {
-    "identifier": "2024_08",
-    "correctSubmissionCount": 94,
-    "bonusCount": 59,
-    "bonusRate": 0.63
-  },
-  {
-    "identifier": "2024_10",
-    "correctSubmissionCount": 91,
-    "bonusCount": 46,
-    "bonusRate": 0.51
-  },
-  {
-    "identifier": "2024_05",
-    "correctSubmissionCount": 53,
-    "bonusCount": 29,
-    "bonusRate": 0.55
-  },
-  {
-    "identifier": "2024_01",
-    "correctSubmissionCount": 150,
-    "bonusCount": 85,
-    "bonusRate": 0.57
-  },
-  {
-    "identifier": "2024_09",
-    "correctSubmissionCount": 112,
-    "bonusCount": 25,
-    "bonusRate": 0.22
-  },
-  {
-    "identifier": "2024_04",
-    "correctSubmissionCount": 126,
-    "bonusCount": 116,
-    "bonusRate": 0.92
-  },
-  {
-    "identifier": "2013_11",
-    "correctSubmissionCount": 225,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_01",
-    "correctSubmissionCount": 32,
-    "bonusCount": 7,
-    "bonusRate": 0.22
-  },
-  {
-    "identifier": "2013_08",
-    "correctSubmissionCount": 57,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_04",
-    "correctSubmissionCount": 295,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_02",
-    "correctSubmissionCount": 149,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_10",
-    "correctSubmissionCount": 122,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_05",
-    "correctSubmissionCount": 68,
-    "bonusCount": 13,
-    "bonusRate": 0.19
-  },
-  {
-    "identifier": "2013_12",
-    "correctSubmissionCount": 120,
-    "bonusCount": 64,
-    "bonusRate": 0.53
-  },
-  {
-    "identifier": "2013_03",
-    "correctSubmissionCount": 24,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_07",
-    "correctSubmissionCount": 123,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2013_09",
-    "correctSubmissionCount": 37,
-    "bonusCount": 1,
-    "bonusRate": 0.03
-  },
-  {
-    "identifier": "2013_06",
-    "correctSubmissionCount": 60,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_11",
-    "correctSubmissionCount": 118,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_06",
-    "correctSubmissionCount": 157,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_04",
-    "correctSubmissionCount": 51,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_12",
-    "correctSubmissionCount": 247,
-    "bonusCount": 364,
-    "bonusRate": 1.47
-  },
-  {
-    "identifier": "2012_10",
-    "correctSubmissionCount": 86,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_01",
-    "correctSubmissionCount": 114,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_08",
-    "correctSubmissionCount": 108,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_02",
-    "correctSubmissionCount": 90,
-    "bonusCount": 24,
-    "bonusRate": 0.27
-  },
-  {
-    "identifier": "2012_03",
-    "correctSubmissionCount": 56,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_05",
-    "correctSubmissionCount": 128,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_07",
-    "correctSubmissionCount": 57,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2012_09",
-    "correctSubmissionCount": 53,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2020_05",
-    "correctSubmissionCount": 41,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2020_01",
-    "correctSubmissionCount": 80,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2020_12",
-    "correctSubmissionCount": 101,
-    "bonusCount": 19,
-    "bonusRate": 0.19
-  },
-  {
-    "identifier": "2020_04",
-    "correctSubmissionCount": 82,
-    "bonusCount": 61,
-    "bonusRate": 0.74
-  },
-  {
-    "identifier": "2020_07",
-    "correctSubmissionCount": 74,
-    "bonusCount": 7,
-    "bonusRate": 0.09
-  },
-  {
-    "identifier": "2020_09",
-    "correctSubmissionCount": 77,
-    "bonusCount": 37,
-    "bonusRate": 0.48
-  },
-  {
-    "identifier": "2020_11",
-    "correctSubmissionCount": 93,
-    "bonusCount": 73,
-    "bonusRate": 0.78
-  },
-  {
-    "identifier": "2020_02",
-    "correctSubmissionCount": 72,
-    "bonusCount": 4,
-    "bonusRate": 0.06
-  },
-  {
-    "identifier": "2020_10",
-    "correctSubmissionCount": 27,
-    "bonusCount": 17,
-    "bonusRate": 0.63
-  },
-  {
-    "identifier": "2020_08",
-    "correctSubmissionCount": 57,
-    "bonusCount": 2,
-    "bonusRate": 0.04
-  },
-  {
-    "identifier": "2020_03",
-    "correctSubmissionCount": 69,
-    "bonusCount": 36,
-    "bonusRate": 0.52
-  },
-  {
-    "identifier": "2020_06",
-    "correctSubmissionCount": 36,
-    "bonusCount": 21,
-    "bonusRate": 0.58
-  },
-  {
-    "identifier": "2010_07",
-    "correctSubmissionCount": 32,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_10",
-    "correctSubmissionCount": 31,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_11",
-    "correctSubmissionCount": 7,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_02",
-    "correctSubmissionCount": 31,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_09",
-    "correctSubmissionCount": 31,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_04",
-    "correctSubmissionCount": 47,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_01",
-    "correctSubmissionCount": 223,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_06",
-    "correctSubmissionCount": 38,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_03",
-    "correctSubmissionCount": 25,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_05",
-    "correctSubmissionCount": 57,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_08",
-    "correctSubmissionCount": 33,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2010_12",
-    "correctSubmissionCount": 132,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_11",
-    "correctSubmissionCount": 88,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_10",
-    "correctSubmissionCount": 55,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_04",
-    "correctSubmissionCount": 12,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_12",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_07",
-    "correctSubmissionCount": 19,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_05",
-    "correctSubmissionCount": 24,
+    "identifier": "1999_12",
+    "correctSubmissionCount": 21,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1272,20 +156,20 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2000_09",
-    "correctSubmissionCount": 64,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2000_08",
-    "correctSubmissionCount": 1,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
     "identifier": "2000_03",
     "correctSubmissionCount": 100,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2000_04",
+    "correctSubmissionCount": 12,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2000_05",
+    "correctSubmissionCount": 24,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1296,104 +180,110 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_08",
-    "correctSubmissionCount": 0,
+    "identifier": "2000_07",
+    "correctSubmissionCount": 19,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_06",
-    "correctSubmissionCount": 63,
+    "identifier": "2000_08",
+    "correctSubmissionCount": 1,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_07",
-    "correctSubmissionCount": 0,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2005_05",
-    "correctSubmissionCount": 100,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2005_01",
-    "correctSubmissionCount": 101,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2005_03",
-    "correctSubmissionCount": 10,
-    "bonusCount": 2,
-    "bonusRate": 0.2
-  },
-  {
-    "identifier": "2005_11",
-    "correctSubmissionCount": 24,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2005_02",
-    "correctSubmissionCount": 99,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2005_09",
+    "identifier": "2000_09",
     "correctSubmissionCount": 64,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_04",
+    "identifier": "2000_10",
+    "correctSubmissionCount": 55,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2000_11",
+    "correctSubmissionCount": 88,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2000_12",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_10",
+    "identifier": "2001_01",
     "correctSubmissionCount": 40,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2005_12",
+    "identifier": "2001_02",
+    "correctSubmissionCount": 64,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_03",
+    "correctSubmissionCount": 45,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_04",
+    "correctSubmissionCount": 79,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_05",
+    "correctSubmissionCount": 38,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_06",
+    "correctSubmissionCount": 41,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_07",
+    "correctSubmissionCount": 72,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2001_08",
     "correctSubmissionCount": 20,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_09",
-    "correctSubmissionCount": 4,
+    "identifier": "2001_09",
+    "correctSubmissionCount": 2,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_11",
-    "correctSubmissionCount": 132,
+    "identifier": "2001_10",
+    "correctSubmissionCount": 32,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_02",
-    "correctSubmissionCount": 22,
+    "identifier": "2001_11",
+    "correctSubmissionCount": 14,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_07",
-    "correctSubmissionCount": 138,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2002_12",
-    "correctSubmissionCount": 194,
+    "identifier": "2001_12",
+    "correctSubmissionCount": 35,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1404,8 +294,8 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_06",
-    "correctSubmissionCount": 37,
+    "identifier": "2002_02",
+    "correctSubmissionCount": 22,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1416,8 +306,8 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_10",
-    "correctSubmissionCount": 38,
+    "identifier": "2002_04",
+    "correctSubmissionCount": 8,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1428,98 +318,116 @@
     "bonusRate": 0.0
   },
   {
+    "identifier": "2002_06",
+    "correctSubmissionCount": 37,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2002_07",
+    "correctSubmissionCount": 138,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
     "identifier": "2002_08",
     "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2002_04",
-    "correctSubmissionCount": 8,
+    "identifier": "2002_09",
+    "correctSubmissionCount": 4,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_08",
+    "identifier": "2002_10",
+    "correctSubmissionCount": 38,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2002_11",
+    "correctSubmissionCount": 132,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2002_12",
+    "correctSubmissionCount": 194,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2003_01",
     "correctSubmissionCount": 40,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_02",
+    "identifier": "2003_02",
     "correctSubmissionCount": 8,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_01",
-    "correctSubmissionCount": 52,
+    "identifier": "2003_03",
+    "correctSubmissionCount": 24,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_12",
+    "identifier": "2003_04",
+    "correctSubmissionCount": 6,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2003_05",
+    "correctSubmissionCount": 41,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2003_06",
     "correctSubmissionCount": 31,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_11",
-    "correctSubmissionCount": 94,
+    "identifier": "2003_07",
+    "correctSubmissionCount": 0,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_03",
-    "correctSubmissionCount": 76,
+    "identifier": "2003_08",
+    "correctSubmissionCount": 83,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_04",
-    "correctSubmissionCount": 11,
+    "identifier": "2003_09",
+    "correctSubmissionCount": 24,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_10",
-    "correctSubmissionCount": 182,
+    "identifier": "2003_10",
+    "correctSubmissionCount": 58,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2009_07",
-    "correctSubmissionCount": 64,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2009_06",
-    "correctSubmissionCount": 48,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2009_09",
-    "correctSubmissionCount": 61,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2009_05",
-    "correctSubmissionCount": 120,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2004_09",
+    "identifier": "2003_11",
     "correctSubmissionCount": 13,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2004_11",
-    "correctSubmissionCount": 150,
+    "identifier": "2003_12",
+    "correctSubmissionCount": 12,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1536,32 +444,8 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2004_10",
-    "correctSubmissionCount": 18,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2004_05",
-    "correctSubmissionCount": 27,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2004_12",
-    "correctSubmissionCount": 55,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2004_07",
-    "correctSubmissionCount": 38,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2004_06",
-    "correctSubmissionCount": 0,
+    "identifier": "2004_03",
+    "correctSubmissionCount": 26,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1572,8 +456,20 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2004_03",
-    "correctSubmissionCount": 26,
+    "identifier": "2004_05",
+    "correctSubmissionCount": 27,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2004_06",
+    "correctSubmissionCount": 0,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2004_07",
+    "correctSubmissionCount": 38,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1584,20 +480,746 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2015_07",
+    "identifier": "2004_09",
+    "correctSubmissionCount": 13,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2004_10",
+    "correctSubmissionCount": 18,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2004_11",
+    "correctSubmissionCount": 150,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2004_12",
+    "correctSubmissionCount": 55,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_01",
+    "correctSubmissionCount": 101,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_02",
+    "correctSubmissionCount": 99,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_03",
+    "correctSubmissionCount": 10,
+    "bonusCount": 2,
+    "bonusRate": 0.2
+  },
+  {
+    "identifier": "2005_04",
+    "correctSubmissionCount": 0,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_05",
+    "correctSubmissionCount": 100,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_06",
+    "correctSubmissionCount": 63,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_07",
+    "correctSubmissionCount": 0,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_08",
+    "correctSubmissionCount": 0,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_09",
+    "correctSubmissionCount": 64,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_10",
+    "correctSubmissionCount": 40,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_11",
+    "correctSubmissionCount": 24,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2005_12",
+    "correctSubmissionCount": 20,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_01",
+    "correctSubmissionCount": 29,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_02",
+    "correctSubmissionCount": 38,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_03",
+    "correctSubmissionCount": 63,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_04",
+    "correctSubmissionCount": 19,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_05",
+    "correctSubmissionCount": 82,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_06",
+    "correctSubmissionCount": 93,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_07",
+    "correctSubmissionCount": 18,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_08",
+    "correctSubmissionCount": 41,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_09",
+    "correctSubmissionCount": 50,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_10",
+    "correctSubmissionCount": 22,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_11",
+    "correctSubmissionCount": 163,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2006_12",
+    "correctSubmissionCount": 52,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_01",
+    "correctSubmissionCount": 55,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_02",
+    "correctSubmissionCount": 68,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_03",
+    "correctSubmissionCount": 44,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_04",
+    "correctSubmissionCount": 40,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_05",
+    "correctSubmissionCount": 143,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_06",
+    "correctSubmissionCount": 54,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_07",
+    "correctSubmissionCount": 91,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_08",
+    "correctSubmissionCount": 72,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_09",
+    "correctSubmissionCount": 52,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_10",
+    "correctSubmissionCount": 65,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_11",
+    "correctSubmissionCount": 37,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2007_12",
     "correctSubmissionCount": 79,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2015_03",
-    "correctSubmissionCount": 27,
-    "bonusCount": 12,
-    "bonusRate": 0.44
+    "identifier": "2008_01",
+    "correctSubmissionCount": 78,
+    "bonusCount": 0,
+    "bonusRate": 0.0
   },
   {
-    "identifier": "2015_08",
-    "correctSubmissionCount": 30,
+    "identifier": "2008_02",
+    "correctSubmissionCount": 26,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_03",
+    "correctSubmissionCount": 26,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_04",
+    "correctSubmissionCount": 74,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_05",
+    "correctSubmissionCount": 85,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_06",
+    "correctSubmissionCount": 65,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_07",
+    "correctSubmissionCount": 87,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_08",
+    "correctSubmissionCount": 27,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_09",
+    "correctSubmissionCount": 81,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_10",
+    "correctSubmissionCount": 73,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_11",
+    "correctSubmissionCount": 90,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2008_12",
+    "correctSubmissionCount": 132,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_01",
+    "correctSubmissionCount": 52,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_02",
+    "correctSubmissionCount": 8,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_03",
+    "correctSubmissionCount": 76,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_04",
+    "correctSubmissionCount": 11,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_05",
+    "correctSubmissionCount": 120,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_06",
+    "correctSubmissionCount": 48,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_07",
+    "correctSubmissionCount": 64,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_08",
+    "correctSubmissionCount": 40,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_09",
+    "correctSubmissionCount": 61,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_10",
+    "correctSubmissionCount": 182,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_11",
+    "correctSubmissionCount": 94,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2009_12",
+    "correctSubmissionCount": 31,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_01",
+    "correctSubmissionCount": 223,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_02",
+    "correctSubmissionCount": 31,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_03",
+    "correctSubmissionCount": 25,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_04",
+    "correctSubmissionCount": 47,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_05",
+    "correctSubmissionCount": 57,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_06",
+    "correctSubmissionCount": 38,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_07",
+    "correctSubmissionCount": 32,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_08",
+    "correctSubmissionCount": 33,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_09",
+    "correctSubmissionCount": 31,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_10",
+    "correctSubmissionCount": 31,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_11",
+    "correctSubmissionCount": 7,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2010_12",
+    "correctSubmissionCount": 132,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_01",
+    "correctSubmissionCount": 55,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_02",
+    "correctSubmissionCount": 128,
+    "bonusCount": 62,
+    "bonusRate": 0.48
+  },
+  {
+    "identifier": "2011_03",
+    "correctSubmissionCount": 67,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_04",
+    "correctSubmissionCount": 118,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_05",
+    "correctSubmissionCount": 76,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_06",
+    "correctSubmissionCount": 132,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_07",
+    "correctSubmissionCount": 26,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_08",
+    "correctSubmissionCount": 89,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_09",
+    "correctSubmissionCount": 55,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_10",
+    "correctSubmissionCount": 58,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_11",
+    "correctSubmissionCount": 53,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2011_12",
+    "correctSubmissionCount": 67,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_01",
+    "correctSubmissionCount": 114,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_02",
+    "correctSubmissionCount": 90,
+    "bonusCount": 24,
+    "bonusRate": 0.27
+  },
+  {
+    "identifier": "2012_03",
+    "correctSubmissionCount": 56,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_04",
+    "correctSubmissionCount": 51,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_05",
+    "correctSubmissionCount": 128,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_06",
+    "correctSubmissionCount": 157,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_07",
+    "correctSubmissionCount": 57,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_08",
+    "correctSubmissionCount": 108,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_09",
+    "correctSubmissionCount": 53,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_10",
+    "correctSubmissionCount": 86,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_11",
+    "correctSubmissionCount": 118,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2012_12",
+    "correctSubmissionCount": 247,
+    "bonusCount": 364,
+    "bonusRate": 1.47
+  },
+  {
+    "identifier": "2013_01",
+    "correctSubmissionCount": 32,
+    "bonusCount": 7,
+    "bonusRate": 0.22
+  },
+  {
+    "identifier": "2013_02",
+    "correctSubmissionCount": 149,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_03",
+    "correctSubmissionCount": 24,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_04",
+    "correctSubmissionCount": 295,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_05",
+    "correctSubmissionCount": 68,
+    "bonusCount": 13,
+    "bonusRate": 0.19
+  },
+  {
+    "identifier": "2013_06",
+    "correctSubmissionCount": 60,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_07",
+    "correctSubmissionCount": 123,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_08",
+    "correctSubmissionCount": 57,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_09",
+    "correctSubmissionCount": 37,
+    "bonusCount": 1,
+    "bonusRate": 0.03
+  },
+  {
+    "identifier": "2013_10",
+    "correctSubmissionCount": 122,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_11",
+    "correctSubmissionCount": 225,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2013_12",
+    "correctSubmissionCount": 120,
+    "bonusCount": 64,
+    "bonusRate": 0.53
+  },
+  {
+    "identifier": "2014_01",
+    "correctSubmissionCount": 40,
+    "bonusCount": 10,
+    "bonusRate": 0.25
+  },
+  {
+    "identifier": "2014_02",
+    "correctSubmissionCount": 28,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_03",
+    "correctSubmissionCount": 56,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_04",
+    "correctSubmissionCount": 111,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_05",
+    "correctSubmissionCount": 37,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_06",
+    "correctSubmissionCount": 185,
+    "bonusCount": 119,
+    "bonusRate": 0.64
+  },
+  {
+    "identifier": "2014_07",
+    "correctSubmissionCount": 60,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_08",
+    "correctSubmissionCount": 127,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_09",
+    "correctSubmissionCount": 141,
+    "bonusCount": 12,
+    "bonusRate": 0.09
+  },
+  {
+    "identifier": "2014_10",
+    "correctSubmissionCount": 179,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_11",
+    "correctSubmissionCount": 74,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2014_12",
+    "correctSubmissionCount": 107,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1608,28 +1230,16 @@
     "bonusRate": 0.42
   },
   {
-    "identifier": "2015_10",
-    "correctSubmissionCount": 55,
-    "bonusCount": 80,
-    "bonusRate": 1.45
-  },
-  {
-    "identifier": "2015_11",
-    "correctSubmissionCount": 108,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
     "identifier": "2015_02",
     "correctSubmissionCount": 38,
     "bonusCount": 9,
     "bonusRate": 0.24
   },
   {
-    "identifier": "2015_06",
-    "correctSubmissionCount": 54,
-    "bonusCount": 10,
-    "bonusRate": 0.19
+    "identifier": "2015_03",
+    "correctSubmissionCount": 27,
+    "bonusCount": 12,
+    "bonusRate": 0.44
   },
   {
     "identifier": "2015_04",
@@ -1644,8 +1254,20 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2015_12",
-    "correctSubmissionCount": 21,
+    "identifier": "2015_06",
+    "correctSubmissionCount": 54,
+    "bonusCount": 10,
+    "bonusRate": 0.19
+  },
+  {
+    "identifier": "2015_07",
+    "correctSubmissionCount": 79,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2015_08",
+    "correctSubmissionCount": 30,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1656,154 +1278,34 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2008_09",
-    "correctSubmissionCount": 81,
+    "identifier": "2015_10",
+    "correctSubmissionCount": 55,
+    "bonusCount": 80,
+    "bonusRate": 1.45
+  },
+  {
+    "identifier": "2015_11",
+    "correctSubmissionCount": 108,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2008_08",
-    "correctSubmissionCount": 27,
+    "identifier": "2015_12",
+    "correctSubmissionCount": 21,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
   {
-    "identifier": "2008_06",
-    "correctSubmissionCount": 65,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_05",
-    "correctSubmissionCount": 85,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_10",
-    "correctSubmissionCount": 73,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_04",
-    "correctSubmissionCount": 74,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_02",
-    "correctSubmissionCount": 26,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_11",
-    "correctSubmissionCount": 90,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_03",
-    "correctSubmissionCount": 26,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_07",
-    "correctSubmissionCount": 87,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_01",
-    "correctSubmissionCount": 78,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2008_12",
-    "correctSubmissionCount": 132,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2022_09",
-    "correctSubmissionCount": 31,
+    "identifier": "2016_01",
+    "correctSubmissionCount": 146,
     "bonusCount": 10,
-    "bonusRate": 0.32
+    "bonusRate": 0.07
   },
   {
-    "identifier": "2022_10",
-    "correctSubmissionCount": 54,
-    "bonusCount": 18,
-    "bonusRate": 0.33
-  },
-  {
-    "identifier": "2022_04",
-    "correctSubmissionCount": 53,
-    "bonusCount": 44,
-    "bonusRate": 0.83
-  },
-  {
-    "identifier": "2022_11",
-    "correctSubmissionCount": 65,
-    "bonusCount": 21,
-    "bonusRate": 0.32
-  },
-  {
-    "identifier": "2022_06",
-    "correctSubmissionCount": 43,
-    "bonusCount": 27,
-    "bonusRate": 0.63
-  },
-  {
-    "identifier": "2022_01",
-    "correctSubmissionCount": 118,
-    "bonusCount": 81,
-    "bonusRate": 0.69
-  },
-  {
-    "identifier": "2022_02",
-    "correctSubmissionCount": 42,
-    "bonusCount": 37,
-    "bonusRate": 0.88
-  },
-  {
-    "identifier": "2022_08",
-    "correctSubmissionCount": 77,
-    "bonusCount": 65,
-    "bonusRate": 0.84
-  },
-  {
-    "identifier": "2022_03",
-    "correctSubmissionCount": 76,
-    "bonusCount": 33,
-    "bonusRate": 0.43
-  },
-  {
-    "identifier": "2022_12",
-    "correctSubmissionCount": 61,
-    "bonusCount": 38,
-    "bonusRate": 0.62
-  },
-  {
-    "identifier": "2022_05",
-    "correctSubmissionCount": 176,
-    "bonusCount": 157,
-    "bonusRate": 0.89
-  },
-  {
-    "identifier": "2022_07",
-    "correctSubmissionCount": 73,
-    "bonusCount": 34,
-    "bonusRate": 0.47
-  },
-  {
-    "identifier": "2016_06",
-    "correctSubmissionCount": 14,
-    "bonusCount": 0,
-    "bonusRate": 0.0
+    "identifier": "2016_02",
+    "correctSubmissionCount": 102,
+    "bonusCount": 30,
+    "bonusRate": 0.29
   },
   {
     "identifier": "2016_03",
@@ -1824,46 +1326,16 @@
     "bonusRate": 0.72
   },
   {
+    "identifier": "2016_06",
+    "correctSubmissionCount": 14,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
     "identifier": "2016_07",
     "correctSubmissionCount": 80,
     "bonusCount": 76,
     "bonusRate": 0.95
-  },
-  {
-    "identifier": "2016_11",
-    "correctSubmissionCount": 37,
-    "bonusCount": 1,
-    "bonusRate": 0.03
-  },
-  {
-    "identifier": "2016_02",
-    "correctSubmissionCount": 102,
-    "bonusCount": 30,
-    "bonusRate": 0.29
-  },
-  {
-    "identifier": "2016_09",
-    "correctSubmissionCount": 107,
-    "bonusCount": 1,
-    "bonusRate": 0.01
-  },
-  {
-    "identifier": "2016_12",
-    "correctSubmissionCount": 26,
-    "bonusCount": 74,
-    "bonusRate": 2.85
-  },
-  {
-    "identifier": "2016_01",
-    "correctSubmissionCount": 146,
-    "bonusCount": 10,
-    "bonusRate": 0.07
-  },
-  {
-    "identifier": "2016_10",
-    "correctSubmissionCount": 153,
-    "bonusCount": 0,
-    "bonusRate": 0.0
   },
   {
     "identifier": "2016_08",
@@ -1872,10 +1344,178 @@
     "bonusRate": 1.14
   },
   {
-    "identifier": "2019_06",
-    "correctSubmissionCount": 65,
-    "bonusCount": 10,
-    "bonusRate": 0.15
+    "identifier": "2016_09",
+    "correctSubmissionCount": 107,
+    "bonusCount": 1,
+    "bonusRate": 0.01
+  },
+  {
+    "identifier": "2016_10",
+    "correctSubmissionCount": 153,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2016_11",
+    "correctSubmissionCount": 37,
+    "bonusCount": 1,
+    "bonusRate": 0.03
+  },
+  {
+    "identifier": "2016_12",
+    "correctSubmissionCount": 26,
+    "bonusCount": 74,
+    "bonusRate": 2.85
+  },
+  {
+    "identifier": "2017_01",
+    "correctSubmissionCount": 67,
+    "bonusCount": 47,
+    "bonusRate": 0.7
+  },
+  {
+    "identifier": "2017_02",
+    "correctSubmissionCount": 78,
+    "bonusCount": 9,
+    "bonusRate": 0.12
+  },
+  {
+    "identifier": "2017_03",
+    "correctSubmissionCount": 54,
+    "bonusCount": 19,
+    "bonusRate": 0.35
+  },
+  {
+    "identifier": "2017_04",
+    "correctSubmissionCount": 75,
+    "bonusCount": 39,
+    "bonusRate": 0.52
+  },
+  {
+    "identifier": "2017_05",
+    "correctSubmissionCount": 161,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2017_06",
+    "correctSubmissionCount": 53,
+    "bonusCount": 87,
+    "bonusRate": 1.64
+  },
+  {
+    "identifier": "2017_07",
+    "correctSubmissionCount": 63,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2017_08",
+    "correctSubmissionCount": 61,
+    "bonusCount": 21,
+    "bonusRate": 0.34
+  },
+  {
+    "identifier": "2017_09",
+    "correctSubmissionCount": 32,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2017_10",
+    "correctSubmissionCount": 22,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2017_11",
+    "correctSubmissionCount": 23,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2017_12",
+    "correctSubmissionCount": 88,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_01",
+    "correctSubmissionCount": 29,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_02",
+    "correctSubmissionCount": 87,
+    "bonusCount": 40,
+    "bonusRate": 0.46
+  },
+  {
+    "identifier": "2018_03",
+    "correctSubmissionCount": 85,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_04",
+    "correctSubmissionCount": 163,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_05",
+    "correctSubmissionCount": 64,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_06",
+    "correctSubmissionCount": 98,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_07",
+    "correctSubmissionCount": 191,
+    "bonusCount": 44,
+    "bonusRate": 0.23
+  },
+  {
+    "identifier": "2018_08",
+    "correctSubmissionCount": 116,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2018_09",
+    "correctSubmissionCount": 64,
+    "bonusCount": 55,
+    "bonusRate": 0.86
+  },
+  {
+    "identifier": "2018_10",
+    "correctSubmissionCount": 27,
+    "bonusCount": 1,
+    "bonusRate": 0.04
+  },
+  {
+    "identifier": "2018_11",
+    "correctSubmissionCount": 33,
+    "bonusCount": 4,
+    "bonusRate": 0.12
+  },
+  {
+    "identifier": "2018_12",
+    "correctSubmissionCount": 51,
+    "bonusCount": 32,
+    "bonusRate": 0.63
+  },
+  {
+    "identifier": "2019_01",
+    "correctSubmissionCount": 89,
+    "bonusCount": 42,
+    "bonusRate": 0.47
   },
   {
     "identifier": "2019_02",
@@ -1890,14 +1530,32 @@
     "bonusRate": 0.7
   },
   {
-    "identifier": "2019_12",
-    "correctSubmissionCount": 80,
-    "bonusCount": 9,
-    "bonusRate": 0.11
+    "identifier": "2019_04",
+    "correctSubmissionCount": 187,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2019_05",
+    "correctSubmissionCount": 36,
+    "bonusCount": 10,
+    "bonusRate": 0.28
+  },
+  {
+    "identifier": "2019_06",
+    "correctSubmissionCount": 65,
+    "bonusCount": 10,
+    "bonusRate": 0.15
   },
   {
     "identifier": "2019_07",
     "correctSubmissionCount": 95,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2019_08",
+    "correctSubmissionCount": 39,
     "bonusCount": 0,
     "bonusRate": 0.0
   },
@@ -1914,33 +1572,399 @@
     "bonusRate": 0.0
   },
   {
-    "identifier": "2019_04",
-    "correctSubmissionCount": 187,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2019_08",
-    "correctSubmissionCount": 39,
-    "bonusCount": 0,
-    "bonusRate": 0.0
-  },
-  {
-    "identifier": "2019_01",
-    "correctSubmissionCount": 89,
-    "bonusCount": 42,
-    "bonusRate": 0.47
-  },
-  {
     "identifier": "2019_11",
     "correctSubmissionCount": 32,
     "bonusCount": 6,
     "bonusRate": 0.19
   },
   {
-    "identifier": "2019_05",
+    "identifier": "2019_12",
+    "correctSubmissionCount": 80,
+    "bonusCount": 9,
+    "bonusRate": 0.11
+  },
+  {
+    "identifier": "2020_01",
+    "correctSubmissionCount": 80,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2020_02",
+    "correctSubmissionCount": 72,
+    "bonusCount": 4,
+    "bonusRate": 0.06
+  },
+  {
+    "identifier": "2020_03",
+    "correctSubmissionCount": 69,
+    "bonusCount": 36,
+    "bonusRate": 0.52
+  },
+  {
+    "identifier": "2020_04",
+    "correctSubmissionCount": 82,
+    "bonusCount": 61,
+    "bonusRate": 0.74
+  },
+  {
+    "identifier": "2020_05",
+    "correctSubmissionCount": 41,
+    "bonusCount": 0,
+    "bonusRate": 0.0
+  },
+  {
+    "identifier": "2020_06",
     "correctSubmissionCount": 36,
+    "bonusCount": 21,
+    "bonusRate": 0.58
+  },
+  {
+    "identifier": "2020_07",
+    "correctSubmissionCount": 74,
+    "bonusCount": 7,
+    "bonusRate": 0.09
+  },
+  {
+    "identifier": "2020_08",
+    "correctSubmissionCount": 57,
+    "bonusCount": 2,
+    "bonusRate": 0.04
+  },
+  {
+    "identifier": "2020_09",
+    "correctSubmissionCount": 77,
+    "bonusCount": 37,
+    "bonusRate": 0.48
+  },
+  {
+    "identifier": "2020_10",
+    "correctSubmissionCount": 27,
+    "bonusCount": 17,
+    "bonusRate": 0.63
+  },
+  {
+    "identifier": "2020_11",
+    "correctSubmissionCount": 93,
+    "bonusCount": 73,
+    "bonusRate": 0.78
+  },
+  {
+    "identifier": "2020_12",
+    "correctSubmissionCount": 101,
+    "bonusCount": 19,
+    "bonusRate": 0.19
+  },
+  {
+    "identifier": "2021_01",
+    "correctSubmissionCount": 119,
+    "bonusCount": 78,
+    "bonusRate": 0.66
+  },
+  {
+    "identifier": "2021_02",
+    "correctSubmissionCount": 78,
+    "bonusCount": 62,
+    "bonusRate": 0.79
+  },
+  {
+    "identifier": "2021_03",
+    "correctSubmissionCount": 98,
+    "bonusCount": 63,
+    "bonusRate": 0.64
+  },
+  {
+    "identifier": "2021_04",
+    "correctSubmissionCount": 91,
+    "bonusCount": 66,
+    "bonusRate": 0.73
+  },
+  {
+    "identifier": "2021_05",
+    "correctSubmissionCount": 45,
+    "bonusCount": 20,
+    "bonusRate": 0.44
+  },
+  {
+    "identifier": "2021_06",
+    "correctSubmissionCount": 103,
+    "bonusCount": 78,
+    "bonusRate": 0.76
+  },
+  {
+    "identifier": "2021_07",
+    "correctSubmissionCount": 70,
+    "bonusCount": 63,
+    "bonusRate": 0.9
+  },
+  {
+    "identifier": "2021_08",
+    "correctSubmissionCount": 48,
+    "bonusCount": 28,
+    "bonusRate": 0.58
+  },
+  {
+    "identifier": "2021_09",
+    "correctSubmissionCount": 35,
+    "bonusCount": 21,
+    "bonusRate": 0.6
+  },
+  {
+    "identifier": "2021_10",
+    "correctSubmissionCount": 73,
+    "bonusCount": 44,
+    "bonusRate": 0.6
+  },
+  {
+    "identifier": "2021_11",
+    "correctSubmissionCount": 49,
+    "bonusCount": 38,
+    "bonusRate": 0.78
+  },
+  {
+    "identifier": "2021_12",
+    "correctSubmissionCount": 61,
+    "bonusCount": 52,
+    "bonusRate": 0.85
+  },
+  {
+    "identifier": "2022_01",
+    "correctSubmissionCount": 118,
+    "bonusCount": 81,
+    "bonusRate": 0.69
+  },
+  {
+    "identifier": "2022_02",
+    "correctSubmissionCount": 42,
+    "bonusCount": 37,
+    "bonusRate": 0.88
+  },
+  {
+    "identifier": "2022_03",
+    "correctSubmissionCount": 76,
+    "bonusCount": 33,
+    "bonusRate": 0.43
+  },
+  {
+    "identifier": "2022_04",
+    "correctSubmissionCount": 53,
+    "bonusCount": 44,
+    "bonusRate": 0.83
+  },
+  {
+    "identifier": "2022_05",
+    "correctSubmissionCount": 176,
+    "bonusCount": 157,
+    "bonusRate": 0.89
+  },
+  {
+    "identifier": "2022_06",
+    "correctSubmissionCount": 43,
+    "bonusCount": 27,
+    "bonusRate": 0.63
+  },
+  {
+    "identifier": "2022_07",
+    "correctSubmissionCount": 73,
+    "bonusCount": 34,
+    "bonusRate": 0.47
+  },
+  {
+    "identifier": "2022_08",
+    "correctSubmissionCount": 77,
+    "bonusCount": 65,
+    "bonusRate": 0.84
+  },
+  {
+    "identifier": "2022_09",
+    "correctSubmissionCount": 31,
     "bonusCount": 10,
-    "bonusRate": 0.28
+    "bonusRate": 0.32
+  },
+  {
+    "identifier": "2022_10",
+    "correctSubmissionCount": 54,
+    "bonusCount": 18,
+    "bonusRate": 0.33
+  },
+  {
+    "identifier": "2022_11",
+    "correctSubmissionCount": 65,
+    "bonusCount": 21,
+    "bonusRate": 0.32
+  },
+  {
+    "identifier": "2022_12",
+    "correctSubmissionCount": 61,
+    "bonusCount": 38,
+    "bonusRate": 0.62
+  },
+  {
+    "identifier": "2023_01",
+    "correctSubmissionCount": 60,
+    "bonusCount": 45,
+    "bonusRate": 0.75
+  },
+  {
+    "identifier": "2023_02",
+    "correctSubmissionCount": 60,
+    "bonusCount": 42,
+    "bonusRate": 0.7
+  },
+  {
+    "identifier": "2023_03",
+    "correctSubmissionCount": 82,
+    "bonusCount": 29,
+    "bonusRate": 0.35
+  },
+  {
+    "identifier": "2023_04",
+    "correctSubmissionCount": 79,
+    "bonusCount": 58,
+    "bonusRate": 0.73
+  },
+  {
+    "identifier": "2023_05",
+    "correctSubmissionCount": 51,
+    "bonusCount": 27,
+    "bonusRate": 0.53
+  },
+  {
+    "identifier": "2023_06",
+    "correctSubmissionCount": 56,
+    "bonusCount": 44,
+    "bonusRate": 0.79
+  },
+  {
+    "identifier": "2023_07",
+    "correctSubmissionCount": 94,
+    "bonusCount": 65,
+    "bonusRate": 0.69
+  },
+  {
+    "identifier": "2023_08",
+    "correctSubmissionCount": 161,
+    "bonusCount": 183,
+    "bonusRate": 1.14
+  },
+  {
+    "identifier": "2023_09",
+    "correctSubmissionCount": 133,
+    "bonusCount": 43,
+    "bonusRate": 0.32
+  },
+  {
+    "identifier": "2023_10",
+    "correctSubmissionCount": 93,
+    "bonusCount": 43,
+    "bonusRate": 0.46
+  },
+  {
+    "identifier": "2023_11",
+    "correctSubmissionCount": 111,
+    "bonusCount": 87,
+    "bonusRate": 0.78
+  },
+  {
+    "identifier": "2023_12",
+    "correctSubmissionCount": 97,
+    "bonusCount": 54,
+    "bonusRate": 0.56
+  },
+  {
+    "identifier": "2024_01",
+    "correctSubmissionCount": 150,
+    "bonusCount": 85,
+    "bonusRate": 0.57
+  },
+  {
+    "identifier": "2024_02",
+    "correctSubmissionCount": 101,
+    "bonusCount": 66,
+    "bonusRate": 0.65
+  },
+  {
+    "identifier": "2024_03",
+    "correctSubmissionCount": 186,
+    "bonusCount": 67,
+    "bonusRate": 0.36
+  },
+  {
+    "identifier": "2024_04",
+    "correctSubmissionCount": 126,
+    "bonusCount": 116,
+    "bonusRate": 0.92
+  },
+  {
+    "identifier": "2024_05",
+    "correctSubmissionCount": 53,
+    "bonusCount": 29,
+    "bonusRate": 0.55
+  },
+  {
+    "identifier": "2024_06",
+    "correctSubmissionCount": 123,
+    "bonusCount": 85,
+    "bonusRate": 0.69
+  },
+  {
+    "identifier": "2024_07",
+    "correctSubmissionCount": 62,
+    "bonusCount": 29,
+    "bonusRate": 0.47
+  },
+  {
+    "identifier": "2024_08",
+    "correctSubmissionCount": 94,
+    "bonusCount": 59,
+    "bonusRate": 0.63
+  },
+  {
+    "identifier": "2024_09",
+    "correctSubmissionCount": 112,
+    "bonusCount": 25,
+    "bonusRate": 0.22
+  },
+  {
+    "identifier": "2024_10",
+    "correctSubmissionCount": 91,
+    "bonusCount": 46,
+    "bonusRate": 0.51
+  },
+  {
+    "identifier": "2024_11",
+    "correctSubmissionCount": 47,
+    "bonusCount": 39,
+    "bonusRate": 0.83
+  },
+  {
+    "identifier": "2024_12",
+    "correctSubmissionCount": 103,
+    "bonusCount": 71,
+    "bonusRate": 0.69
+  },
+  {
+    "identifier": "2025_01",
+    "correctSubmissionCount": 125,
+    "bonusCount": 57,
+    "bonusRate": 0.46
+  },
+  {
+    "identifier": "2025_02",
+    "correctSubmissionCount": 117,
+    "bonusCount": 29,
+    "bonusRate": 0.25
+  },
+  {
+    "identifier": "2025_03",
+    "correctSubmissionCount": 32,
+    "bonusCount": 14,
+    "bonusRate": 0.44
+  },
+  {
+    "identifier": "2025_04",
+    "correctSubmissionCount": 96,
+    "bonusCount": 76,
+    "bonusRate": 0.79
   }
 ]
