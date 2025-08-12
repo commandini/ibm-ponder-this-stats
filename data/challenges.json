@@ -1958,13 +1958,31 @@
   {
     "identifier": "2025_03",
     "correctSubmissionCount": 32,
-    "bonusCount": 14,
-    "bonusRate": 0.44
+    "bonusCount": 13,
+    "bonusRate": 0.41
   },
   {
     "identifier": "2025_04",
     "correctSubmissionCount": 96,
-    "bonusCount": 76,
-    "bonusRate": 0.79
+    "bonusCount": 79,
+    "bonusRate": 0.82
+  },
+  {
+    "identifier": "2025_05",
+    "correctSubmissionCount": 112,
+    "bonusCount": 77,
+    "bonusRate": 0.69
+  },
+  {
+    "identifier": "2025_06",
+    "correctSubmissionCount": 81,
+    "bonusCount": 69,
+    "bonusRate": 0.85
+  },
+  {
+    "identifier": "2025_07",
+    "correctSubmissionCount": 48,
+    "bonusCount": 30,
+    "bonusRate": 0.63
   }
 ]
